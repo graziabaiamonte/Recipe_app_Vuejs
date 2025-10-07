@@ -1,16 +1,12 @@
-# Receipt Search app built with Vue.js
-This repository is created alongside the following [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM)
+# Recipe App
 
-## Demo
-[https://tc-search-meals.netlify.app](https://tc-search-meals.netlify.app/)
+Applicazione web intuitiva che permette agli utenti di cercare ricette utilizzando l'API di TheMealDB. L'app offre un'interfaccia moderna e responsiva per esplorare migliaia di ricette, visualizzare dettagli completi e scoprire nuovi piatti da preparare.
 
-## Installation
-1. Clone the repository
-1. Run `npm install`
-1. Copy `.env.example` into `.env`
-1. Run `npm run dev` to start the application at http://localhost:3000
+## 🚀 Tecnologie Utilizzate
 
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- **Vue 3**
+- **Vite**
+- **Vuex**
+- **Tailwind CSS**
+- **Axios**
+- **TheMealDB API** (database pubblico di ricette)
