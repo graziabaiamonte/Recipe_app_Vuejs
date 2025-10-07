@@ -10,3 +10,8 @@ Applicazione web intuitiva che permette agli utenti di cercare ricette utilizzan
 - **Tailwind CSS**
 - **Axios**
 - **TheMealDB API** (database pubblico di ricette)
+
+### Visit the [Demo](https://recipe-app-vuejs.vercel.app/)
+
+![Screen](/public/home_recipe_vue.png)
+![Screen](/public/inner_recipe_vue.png)
